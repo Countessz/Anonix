@@ -71,7 +71,7 @@ You need to install python, that can be done [here](https://www.python.org)
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/logicguy1/The-all-in-one-discord-tool.git
+   git clone https://github.com/TeamRainbowDevs/Anonix.git
    ```
 2. Install Python packages
    ```sh
