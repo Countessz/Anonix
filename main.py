@@ -24,9 +24,9 @@ class NitroGen: # Initialise the class
         os.system('cls' if os.name == 'nt' else 'clear') # Clear the screen
         if os.name == "nt": # If the system is windows
             print("")
-            ctypes.windll.kernel32.SetConsoleTitleW("Nitro Generator and Checker - Made by Drillenissen#4268") # Change the
+            ctypes.windll.kernel32.SetConsoleTitleW("Nitro Generator and Checker - Made by Tejas Lamba#1924") # Change the
         else: # Or if it is unix
-            print(f'\33]0;Nitro Generator and Checker - Made by Drillenissen#4268\a', end='', flush=True) # Update title of command prompt
+            print(f'\33]0;Nitro Generator and Checker - Made by Tejas Lamba#1924\a', end='', flush=True) # Update title of command prompt
 
         print(""" █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗██╗██╗  ██╗
 ██╔══██╗████╗  ██║██╔═══██╗████╗  ██║██║╚██╗██╔╝
@@ -36,7 +36,7 @@ class NitroGen: # Initialise the class
 ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝
                                                         """) # Print the title card
         time.sleep(2) # Wait a few seconds
-        self.slowType("Made by: Drillenissen#4268 && Benz#4947", .02) # Print who developed the code
+        self.slowType("Made by: Tejas Lamba#1924", .02) # Print who developed the code
         time.sleep(1) # Wait a little more
         self.slowType("\nInput How Many Codes to Generate and Check: ", .02, newLine = False) # Print the first question
 
