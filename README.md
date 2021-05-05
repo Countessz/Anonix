@@ -15,14 +15,14 @@
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Report Bug</a>
+    <a href="https://github.com/TeamRainbowDevs/Anonix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues">Request Feature</a>
+    <a href="https://github.com/TeamRainbowDevs/Anonix/issues">Request Feature</a>
       ·
-    <a href="https://discord.gg/rchHUU9aGk">Join the discord</a>
+    <a href="https://discord.gg/yPN49wdqMc">Join the discord</a>
   </p>
 </p>
   
@@ -109,7 +109,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues) for a list of proposed features (and known issues).
+See the [open issues](#) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -122,16 +122,7 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 ## Copyright
 
-© 2020 Drillenissen#4268 all rights reserved
+© 2020 Tejas Lamba#1924 all rights reserved
 
 ## Contact
-
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
-
-Project Link: [https://github.com/logicguy1/The-all-in-one-discord-tool](https://github.com/logicguy1/The-all-in-one-discord-tool)
-
-<!-- Statistics -->  
-
-<p>
-<img src=https://komarev.com/ghpvc/?username=Drillenissen />
-</p>
+https://discord.gg/yPN49wdqMc
